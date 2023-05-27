@@ -1,2 +1,2 @@
 # C-Programming-Undergraduate-Course
-The following repository contains code for assinments, lectures notes, and projects. 
+The following repository contains code for assignments, lectures notes, and projects. 
